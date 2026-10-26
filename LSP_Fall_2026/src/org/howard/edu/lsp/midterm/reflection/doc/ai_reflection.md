@@ -9,7 +9,7 @@ AI has done wonders for me in software development and learning in this course. 
 2.	Challenges: Describe a situation in which AI was incorrect, misleading, unhelpful, or made learning more difficult. Explain what you learned from that experience. If you did not encounter such a situation, explain a limitation or risk you have observed and how you address it.
 
 -----
-my AI has been pretty consistent during this semester. Yes there are many little mistakes it may make like, forgetting to send existing files (as it did for this midterm) or maybe not completely understanding my request, but, compared to the sheer volume of request I have been getting it, it has been an excellent partner in my software development. My biggest risk with AI is the dependency. When I depend on AI so much, I feel I'm losing some of my critical thinking skills and just cognitive function. I had to learned not do depend on it so much and to even take breaks from it at time to exercise my brain that way I'm staying sharp too.
+My AI has been pretty consistent during this semester. Yes there are many little mistakes it may make like, forgetting to send existing files (as it did for this midterm) or maybe not completely understanding my request, but, compared to the sheer volume of request I have been getting it, it has been an excellent partner in my software development. My biggest risk with AI is the dependency. When I depend on AI so much, I feel I'm losing some of my critical thinking skills and just cognitive function. I had to learned not do depend on it so much and to even take breaks from it at time to exercise my brain that way I'm staying sharp too.
 
 
 
